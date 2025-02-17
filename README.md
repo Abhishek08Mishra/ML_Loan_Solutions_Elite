@@ -2,7 +2,7 @@
 
 ## Overview
 
-**ML Loan-Solutions Elite** is an advanced web application designed to predict loan approval based on both structured and unstructured user input. Built with **Streamlit** and enhanced with machine learning models(Random Forest), this tool evaluates an applicant’s financial health to determine their loan eligibility. By integrating **text mining** techniques, it extracts valuable insights from textual descriptions provided by users, further refining the prediction accuracy. 🧠🔍
+**ML Loan-Solutions Elite** is an advanced web application designed to predict loan approval based on both structured and unstructured user input. Built with **Streamlit** and enhanced with machine learning models(Random Forest), this tool evaluates an applicant’s financial health to determine their loan eligibility. By integrating **text mining** techniques, it extracts valuable insights from textual descriptions provided by users, further refining the prediction accuracy. 🧠"Highly accurate Random Forest model for loan approval prediction, achieving 98% accuracy with detailed classification metrics."🔍
 
 ## Features ✨
 

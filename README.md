@@ -30,8 +30,8 @@ To run the app locally, you need the following installed:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-repo/ml-loan-solutions-elite.git
-    cd ml-loan-solutions-elite
+    git clone https://github.com/your-repo/ml_loan_solutions_elite.git
+    cd ml_loan_solutions_elite
     ```
 
 2. **Install dependencies**:
@@ -83,6 +83,7 @@ This method allows for more accurate predictions, leveraging both quantitative a
 - `model_operation.py`: Manages model loading, input preprocessing, and prediction. 🔧
 - `style.css`: Custom CSS file for visual styling. 🖌️
 - `user_interface.py`: Manages user input, footer, and social media links. 📱
+- `loan_classification_notebook.ipynb`: Data loading, cleaning, prepossing, text mining, model training and test and so on.
 
 ## Contributing 🤝
 

@@ -58,7 +58,7 @@ To run the app locally, you need the following installed:
    - Loan Amount 💸
    - Debt-to-Income Ratio 📉
    - Employment Status 👔
-   - Additional (optional) text details ✍️
+   - Additional text details ✍️
 3. **Click the "Predict Loan Approval" button** to receive the result. 🟢
 4. **Review the loan approval feedback**, which explains the decision based on both structured data and text analysis. 📝
 

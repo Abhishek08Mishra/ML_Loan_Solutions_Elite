@@ -30,7 +30,7 @@ To run the app locally, you need the following installed:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-repo/ml_loan_solutions_elite.git
+    git clone https://github.com/Abhishek08Mishra/ml_loan_solutions_elite.git
     cd ml_loan_solutions_elite
     ```
 

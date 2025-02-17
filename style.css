@@ -1,0 +1,61 @@
+body {
+    background-color: #0cd5f4;
+    color: #333333;
+    font-family: 'Arial', sans-serif;
+    font-size: 18px;
+    overflow: hidden;
+}
+
+.stButton > button {
+    background-color: #088b6a;
+    color: #100f0f;
+    border: 2px solid #17100f;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-size: 16px;
+    transition: background-color 0.3s ease, border-color 0.3s ease, transform 0.3s ease;
+}
+
+.stButton > button:hover {
+    background-color: #ba280b;
+    border-color: #0d2631;
+    transform: scale(1.1);
+}
+
+.stButton > button:active {
+    background-color: #32CD32;
+    border-color: #32CD32;
+}
+
+[data-testid="stSidebar"], main {
+    background: #2F4F4F;
+    border: 2px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    border-radius: 10px;
+    position: relative;
+}
+
+[data-testid="stSidebar"] a {
+    color: #FFD700;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: bold;
+    display: block;
+    border-radius: 5px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+[data-testid="stSidebar"] a:hover {
+    background-color: #3E8E41;
+    color: #ffffff;
+}
+
+[data-testid="stSidebar"] h1, h2, h3, p {
+    color: #FFFFFF; 
+    font-weight: normal;
+    margin: 10px 0;
+}

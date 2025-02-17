@@ -91,8 +91,6 @@ pyparsing==3.2.1
 python-dateutil==2.9.0.post0
 python-json-logger==3.2.1
 pytz==2025.1
-pywin32==308
-pywinpty==2.0.15
 PyYAML==6.0.2
 pyzmq==26.2.1
 referencing==0.36.2
@@ -132,4 +130,3 @@ webcolors==24.11.1
 webencodings==0.5.1
 websocket-client==1.8.0
 widgetsnbextension==4.0.13
-xgboost==2.1.4

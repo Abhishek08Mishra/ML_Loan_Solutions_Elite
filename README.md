@@ -102,8 +102,16 @@ This project is licensed under the MIT License. For more details, refer to the L
 If you have any questions or feedback, feel free to reach out:
 
 - **Abhishek Mishra**
-  - Twitter: 🐦 [Twitter](https://twitter.com/your-profile)
-  - LinkedIn: 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-  - GitHub: 💀 [GitHub](https://github.com/your-profile)
+ <p align="center">
+  <a href="https://github.com/Abhishek08Mishra">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/abhishek-mishra08/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/Abhi__57">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</p> 
 
-**Note**: This project is for educational use only and should not be employed in actual loan approval processes without proper validation and adherence to legal standards. ⚠️
+**Note**: This project is for educational use only and should not be used in actual loan approval processes without proper validation and adherence to legal standards. ⚠️

@@ -34,6 +34,7 @@ def main():
                             f"We're excited to support your financial goals with a **loan approval**. "
                             f"Confident in your ability to manage it, we look forward to seeing you succeed!")
                 st.balloons()
+
             else:
                 st.error(f"❌ Sorry, your loan application has been rejected due to the following factors:\n"
                         f"- **Credit Score**: Below the required threshold.\n"
@@ -41,7 +42,6 @@ def main():
                         f"- **Employment Status**: Unstable, raising concerns about repayment.\n"
                         f"- **Loan Amount**: Requested amount exceeds your current financial capacity.\n"
                         f"We encourage you to improve these areas and reapply in the future. Best of luck!")
-
 
         except Exception as e:
             st.error(
@@ -51,7 +51,6 @@ def main():
 
     add_footer()
     add_social_media_links()
-
 
 if __name__ == "__main__":
     main()

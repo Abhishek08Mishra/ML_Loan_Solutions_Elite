@@ -33,6 +33,7 @@ def main():
                             f"- **Employment Status**: Stable, adding to your financial security.\n"
                             f"We're excited to support your financial goals with a **loan approval**. "
                             f"Confident in your ability to manage it, we look forward to seeing you succeed!")
+                st.balloons()
             else:
                 st.error(f"❌ Sorry, your loan application has been rejected due to the following factors:\n"
                         f"- **Credit Score**: Below the required threshold.\n"
